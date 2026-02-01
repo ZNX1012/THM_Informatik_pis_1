@@ -1,4 +1,4 @@
-//package pis.hue1;
+package pis.hue1;
 
 import org.junit.Test;
 
